@@ -5,7 +5,9 @@
 
 # Results:
 **1. Through multiple attempts at the model, we were only able to reach an accuracy of 73%**
+
 **2. Multiple attempts were unsucessful in significantly improving the accuracy of the model.**
+
 **3. Further research and attempts are necessary, as well as potentially changing the model.**
 
 # Data Preprocessing
